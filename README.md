@@ -6,6 +6,7 @@
 ---------------------------------
 
 1-make game tic toc toe 
+
 2- use functions && loop && variables && if ;
 
 <!--
