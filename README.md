@@ -5,7 +5,7 @@
         //  day 14 in C++ //
 ---------------------------------
 
-1-make game tic toc toe 
+1-make game tic tac toe 
 
 2- use functions && loop && variables && if ;
 
