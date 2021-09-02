@@ -5,6 +5,7 @@
 std::string board[9] = {" ", " ", " ", " ", " ", " ", " ", " ", " "};
 int player = 1;
 int position = 0;
+// This Function  introduction Game 
 
 void introduction()
 {
@@ -33,6 +34,8 @@ void introduction()
   std::cout << "  7  |  8  |  9   \n";
   std::cout << "     |     |      \n\n";
 }
+
+// This Function to check who win 
 
 bool is_winner()
 {
@@ -75,7 +78,6 @@ bool is_winner()
 
   return winner;
 }
-
 bool filled_up()
 {
 
@@ -93,6 +95,9 @@ bool filled_up()
 
   return filled;
 }
+
+// This Functions draw the pattern of game 
+
 void draw()
 {
 
@@ -113,6 +118,7 @@ void draw()
 
   std::cout << "\n";
 }
+// This Function to check the box
 
 void set_position()
 {
@@ -155,6 +161,7 @@ void update_board()
     board[position - 1] = "O";
   }
 }
+// This Function to change Player
 
 void change_player()
 {
