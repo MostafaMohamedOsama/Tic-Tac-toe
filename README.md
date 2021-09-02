@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+
+---------------------------------
+        //  day 14 in C++ //
+---------------------------------
+1-make game tic toc toe 
+2- use functions && loop && variables && if ;
+
 <!--
 **MostafaMohamedOsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----------------------------------
-        //  day 14 i C++ //
----------------------------------
+
 
 Here are some ideas to get you started:
 
